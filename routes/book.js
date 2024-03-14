@@ -1,6 +1,5 @@
 import express from "express";
 import {data}from "../data.js" 
-import { isJson } from "../utils/data.js";
 
 const router = express.Router();
 
